@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inreacthook/static/css/main.864e24ec.css",
+    "main.js": "/inreacthook/static/js/main.986414dc.js",
+    "static/js/787.36a32a3c.chunk.js": "/inreacthook/static/js/787.36a32a3c.chunk.js",
+    "index.html": "/inreacthook/index.html",
+    "main.864e24ec.css.map": "/inreacthook/static/css/main.864e24ec.css.map",
+    "main.986414dc.js.map": "/inreacthook/static/js/main.986414dc.js.map",
+    "787.36a32a3c.chunk.js.map": "/inreacthook/static/js/787.36a32a3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.864e24ec.css",
+    "static/js/main.986414dc.js"
+  ]
+}
